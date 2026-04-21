@@ -1,6 +1,8 @@
 # aws-cloudwatch-anomaly-alerter
 
 A Strands-based agent that polls CloudWatch logs and fires alerts to Slack/WhatsApp when it detects errors, stack traces, or 5xx responses.
+<img width="670" height="426" alt="Screenshot 2026-04-21 at 7 27 18 PM" src="https://github.com/user-attachments/assets/db3a6503-550a-4319-b1ec-0364290c4a06" />
+
 
 ## Setup
 
