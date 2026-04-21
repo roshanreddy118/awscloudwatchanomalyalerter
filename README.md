@@ -1,4 +1,4 @@
-# aws-cloudwatch-anomaly-alerter
+<img width="700" height="511" alt="Screenshot 2026-04-21 at 7 41 32 PM" src="https://github.com/user-attachments/assets/584b7753-35a8-49f1-8f75-a0ac865e0d3f" /># aws-cloudwatch-anomaly-alerter
 
 A Strands-based agent that polls CloudWatch logs and fires alerts to Slack/WhatsApp when it detects errors, stack traces, or 5xx responses.
 <img width="670" height="426" alt="Screenshot 2026-04-21 at 7 27 18 PM" src="https://github.com/user-attachments/assets/db3a6503-550a-4319-b1ec-0364290c4a06" />
@@ -7,7 +7,14 @@ A Strands-based agent that polls CloudWatch logs and fires alerts to Slack/Whats
 <img width="658" height="539" alt="Screenshot 2026-04-21 at 7 27 13 PM" src="https://github.com/user-attachments/assets/6317ef42-d2c8-45f5-ba99-9479dd0c4eee" />
 
 
+
 <img width="700" height="511" alt="Screenshot 2026-04-21 at 7 41 32 PM" src="https://github.com/user-attachments/assets/e9047f33-94f6-4b22-ad9f-be9a80e02e67" />
+
+
+
+
+<img width="701" height="413" alt="Screenshot 2026-04-21 at 7 42 07 PM" src="https://github.com/user-attachments/assets/a02ec5bc-f88b-49b8-b2d4-ad500c2fff97" />
+
 
 
 
