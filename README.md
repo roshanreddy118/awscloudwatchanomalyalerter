@@ -4,11 +4,28 @@ A Strands-based agent that polls CloudWatch logs and fires alerts to Slack/Whats
 <img width="670" height="426" alt="Screenshot 2026-04-21 at 7 27 18 PM" src="https://github.com/user-attachments/assets/db3a6503-550a-4319-b1ec-0364290c4a06" />
 
 
+
+
+
+
 <img width="658" height="539" alt="Screenshot 2026-04-21 at 7 27 13 PM" src="https://github.com/user-attachments/assets/6317ef42-d2c8-45f5-ba99-9479dd0c4eee" />
 
 
 
+
+
+
+
+
 <img width="700" height="511" alt="Screenshot 2026-04-21 at 7 41 32 PM" src="https://github.com/user-attachments/assets/e9047f33-94f6-4b22-ad9f-be9a80e02e67" />
+
+
+
+
+
+
+
+
 
 
 
